@@ -1,4 +1,4 @@
-# UE5 UE5 CPP Widgets
+# UE5 CPP Widgets
 
 
 <!-- OVERVIEW -->
